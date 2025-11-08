@@ -15,3 +15,4 @@ export default function GameBoard({ onSlectSquare, board }) {
         </ol>
     )
 }
+//
